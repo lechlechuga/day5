@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+#header{
+    width:100%;
+    text-align:center;
+}
+img{
+    height: 350px;
+    width: 350px;
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited {
+    text-decoration-color: rgb(255, 0, 0);
+  }
+  a:hover {
+    background-color: cadetblue;
+  }
+nav{
+    display:block;
+    position: relative;
+    background-color: rgb(188,205,90);
+    padding:25px;
+    text-align: center;
+
+}
+li{
+    display: inline;
+    text-align: center;
+    padding: 5px 10px;
+    margin: 22px;
+    height: fit-content;
+    
+}
+
+footer{
+    background-color:rgb(65,82,45);
+    clear: both;
+    padding: 25px;
+}
+
